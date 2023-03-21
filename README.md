@@ -20,15 +20,3 @@ Dentro da pasta tests rode os seguintes comandos:
     > npx playwright test .\exemplo.spec.ts
     > npx playwright test .\api.spec.ts 
     
-   _.---.._             _.---...__
-.-'   /\   \          .'  /\     /
-`.   (  )   \        /   (  )   /
-  `.  \/   .'\      /`.   \/  .'
-    ``---''   )    (   ``---''
-            .';.--.;`.
-          .' /_...._\ `.
-        .'   `.a  a.'   `.
-       (        \/        )
-        `.___..-'`-..___.'
-           \          /
-            `-.____.-'
