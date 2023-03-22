@@ -20,3 +20,7 @@ Dentro da pasta tests rode os seguintes comandos:
     > npx playwright test .\exemplo.spec.ts
     > npx playwright test .\api.spec.ts 
     
+Referência:
+Kaniel Outis!
+Engenheiro de software com mais de 10 anos de experiência com qualidade de software e automação de testes.
+Canal no Youtube: https://www.youtube.com/channel/UCOTshYfKdbPjp2h7sDsdUSg
